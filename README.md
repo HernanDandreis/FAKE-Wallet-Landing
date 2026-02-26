@@ -37,7 +37,7 @@ No utiliza JavaScript ni backend.
 FAKE-Wallet-Landing/
 │
 ├── assets/
-│   ├── css/
+│   ├── icons/
 │   └── images/
 │
 ├── index.html
