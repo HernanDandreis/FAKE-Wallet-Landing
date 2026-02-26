@@ -40,6 +40,11 @@ FAKE-Wallet-Landing/
 │   ├── icons/
 │   └── images/
 │
+├── css/
+│   ├── desktop.css
+│   └── style.css
+│   └── tablet.css
+│
 ├── index.html
 └── README.md
 ```
