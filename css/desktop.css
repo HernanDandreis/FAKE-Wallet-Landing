@@ -1,0 +1,37 @@
+@media screen and (min-width: 1280px) {
+
+    .main__table_coins,
+    .main__table__commission {
+        font-size: 16px;
+        border-spacing: 4px 8px;
+        width: 75%;
+        padding: 0 auto;
+        margin: 0 auto;
+    }
+
+    .benefits__section--card {
+        width: 75%;
+    }
+
+    .benefits__section--subtitle {
+        font-size: 18px;
+    }
+
+    .hero__img__section {
+        margin-top: 40px;
+    }
+
+    .main__plans--card {
+        flex: 0 0 400px;
+        min-height: 300px;
+    }
+
+    .card__plan--paragraph {
+        text-align: center;
+    }
+
+    .footer__img__container img {
+        width: 30%;
+        height: auto;
+    }
+}
